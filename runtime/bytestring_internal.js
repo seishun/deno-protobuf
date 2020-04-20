@@ -4,7 +4,7 @@
  * kernel and APIs directly using the binary kernel.
  */
 
-import ByteString from "../runtime/bytestring.js";
+import ByteString from "./bytestring.js";
 
 /**
  * Constructs a ByteString from an Uint8Array. DON'T MODIFY the underlying
